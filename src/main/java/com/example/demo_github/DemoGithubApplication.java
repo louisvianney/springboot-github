@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoGithubApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoGithubApplication.class, arg);
+		SpringApplication.run(DemoGithubApplication.class, args);
 
 		 
 	}
